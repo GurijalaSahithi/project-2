@@ -9,7 +9,8 @@
 <body>
   <div class="slider-container">
     <div class="slider">
-      <div class="slide" style="background-image: url('image1.jpg');">
+      <div class="slide" style="background-image: url('![machu picchu](https://github.com/user-attachments/assets/e3665598-1fc4-4f23-a63e-f2814cb4a541)
+');">
         <div class="caption">Machu Picchu</div>
       </div>
       <div class="slide" style="background-image: url('image2.jpg');">
