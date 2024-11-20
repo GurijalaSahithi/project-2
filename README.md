@@ -9,8 +9,7 @@
 <body>
   <div class="slider-container">
     <div class="slider">
-      <div class="slide" style="background-image: url('![machu picchu](https://github.com/user-attachments/assets/e3665598-1fc4-4f23-a63e-f2814cb4a541)
-');">
+      <div class="slide" style="background-image: url('image1.jpg');">
         <div class="caption">Machu Picchu</div>
       </div>
       <div class="slide" style="background-image: url('image2.jpg');">
@@ -25,8 +24,7 @@
       <button id="next">❯</button>
     </div>
     <div class="thumbnails">
-      <img src="![machu picchu](https://github.com/user-attachments/assets/e7e46030-663c-4aaa-91a9-4f95bfd3d4f9)
-" data-index="0" alt="Thumbnail 1">
+      <img src="image1.jpg" data-index="0" alt="Thumbnail 1">
       <img src="image2.jpg" data-index="1" alt="Thumbnail 2">
       <img src="image3.jpg" data-index="2" alt="Thumbnail 3">
     </div>
