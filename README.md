@@ -25,7 +25,8 @@
       <button id="next">❯</button>
     </div>
     <div class="thumbnails">
-      <img src="image1.jpg" data-index="0" alt="Thumbnail 1">
+      <img src="![machu picchu](https://github.com/user-attachments/assets/e7e46030-663c-4aaa-91a9-4f95bfd3d4f9)
+" data-index="0" alt="Thumbnail 1">
       <img src="image2.jpg" data-index="1" alt="Thumbnail 2">
       <img src="image3.jpg" data-index="2" alt="Thumbnail 3">
     </div>
